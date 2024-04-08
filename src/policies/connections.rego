@@ -1,4 +1,4 @@
-package asertodemo.GET.api.protected
+package asertodemo.GET.v2.connections
 
 # default to a "closed" system, 
 # only grant access when explicitly granted
