@@ -3,7 +3,7 @@ package asertodemo.GET.v2.connections
 default allowed = false
 
 allowed {
-    ds.check({
+    ds.check_permission({
       "object_type": "application",
       "object_id": "account-system",
       "permission": "can_read",
