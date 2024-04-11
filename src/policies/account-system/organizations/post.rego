@@ -1,4 +1,4 @@
-package asertodemo.POST.v2.connections
+package asertodemo.POST.v2.organizations
 
 default allowed = false
 

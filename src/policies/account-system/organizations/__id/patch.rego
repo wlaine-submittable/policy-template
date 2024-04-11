@@ -1,4 +1,4 @@
-package asertodemo.POST.v2.connections.__id
+package asertodemo.POST.v2.organizations.__id
 
 default allowed = false
 
