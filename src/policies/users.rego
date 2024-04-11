@@ -9,5 +9,5 @@ allowed {
       "relation": "member",
       "subject_type": "user",
       "subject_id": input.user.id
-    }
-})
+    })
+}
