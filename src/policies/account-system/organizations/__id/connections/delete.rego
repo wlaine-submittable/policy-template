@@ -4,7 +4,7 @@ default allowed = false
 
 allowed {
     ds.check_permission({
-      "object_type": "object",
+      "object_type": "application",
       "object_id": "account-system",
       "permission": "can_disable",
       "subject_type": "user",
