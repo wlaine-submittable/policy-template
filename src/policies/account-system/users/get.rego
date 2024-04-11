@@ -1,4 +1,4 @@
-package asertodemo.GET.v2.users
+package asertodemo.GET.v__version__apiVersion.users
 
 default allowed = false
 

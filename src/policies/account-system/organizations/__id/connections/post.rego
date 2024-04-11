@@ -1,4 +1,4 @@
-package asertodemo.POST.v2.organizations.__id.connections
+package asertodemo.POST.v__version__apiVersion.organizations.__organizationId.connections
 
 default allowed = false
 

@@ -1,4 +1,4 @@
-package asertodemo.GET.v2.organizations
+package asertodemo.GET.v__version__apiVersion.organizations
 
 default allowed = false
 

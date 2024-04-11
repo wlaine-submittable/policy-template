@@ -1,4 +1,4 @@
-package asertodemo.POST.v2.organizations.__id
+package asertodemo.POST.v__version__apiVersion.organizations.__organizationId
 
 default allowed = false
 

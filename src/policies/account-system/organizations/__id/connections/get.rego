@@ -1,4 +1,4 @@
-package asertodemo.GET.v2.organizations.__id.connections
+package asertodemo.GET.v__version__apiVersion.organizations.__organizationId.connections
 
 default allowed = false
 

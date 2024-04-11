@@ -1,4 +1,4 @@
-package asertodemo.DELETE.v2.organizations.__id.connections.__id
+package asertodemo.DELETE.v__version__apiVersion.organizations.__organizationId.connections.__connectionId
 
 default allowed = false
 

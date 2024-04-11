@@ -1,4 +1,4 @@
-package asertodemo.GET.v2.connections
+package asertodemo.GET.v__version__apiVersion.connections
 
 default allowed = false
 

@@ -1,4 +1,4 @@
-package asertodemo.POST.v2.organizations
+package asertodemo.POST.v__version__apiVersion.organizations
 
 default allowed = false
 

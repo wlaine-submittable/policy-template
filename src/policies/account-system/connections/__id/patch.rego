@@ -1,4 +1,4 @@
-package asertodemo.PATCH.v2.connections.__id
+package asertodemo.PATCH.v__version__apiVersion.connections.__connectionId
 
 default allowed = false
 

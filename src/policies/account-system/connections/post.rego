@@ -1,4 +1,4 @@
-package asertodemo.POST.v2.connections
+package asertodemo.POST.v__version__apiVersion.connections
 
 default allowed = false
 
